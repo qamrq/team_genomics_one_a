@@ -11,8 +11,8 @@
 ![Your Health in the Hands of Genetics &amp; Genomics | NursingCenter](https://www.nursingcenter.com/getattachment/d8003813-38ac-4105-a4c7-bd3e4676e748/Your-Health-in-the-Hands-of-Genetics-and-Genomics.aspx)
 
 
-## Task 
-The task is to look for a bioinformatic tutorial  that correlates with our biostack ( which is genomics). Then to create a quick and simple design for our desired tutorial and advertise it on transfer market channel on Slack workspace.  Once we reproduce the task, we should go on and  create a comprehensive markdown of the step by step and send a GitHub link to the file. 
+## Task  
+<img align="right" alt="gif" src="http://www.qqpr.com/ascii/img/ascii-1008.gif" width="150px"> The task is to look for a bioinformatic tutorial  that correlates with our biostack ( which is genomics). Then to create a quick and simple design for our desired tutorial and advertise it on transfer market channel on Slack workspace.  Once we reproduce the task, we should go on and  create a comprehensive markdown of the step by step and send a GitHub link to the file. 
 How exciting!😍
 
 
