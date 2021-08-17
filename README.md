@@ -1,7 +1,11 @@
-# HackBio Internship  ![HackBIo](https://img.shields.io/badge/HackBio-red) 
+# **HackBio Internship**  ![HackBIo](https://img.shields.io/badge/HackBio-red) 
+ ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=pragnapcu.HackBio2021-TeamMulis)
 
- ![image](https://user-images.githubusercontent.com/88304354/129767267-9b0e5c96-9245-4d37-8ee5-a4666f4fe43a.png)
-## Team Genomics One-A
+ ![image](https://media-exp1.licdn.com/dms/image/C561BAQHKcVQGbcedOA/company-background_10000/0/1598491473588?e=2159024400&v=beta&t=rxECjvQ_YSc28Dn0n9YOtDoFFmvXjatRiqc__C2mpU0)
+ <br>
+ <br>
+ 
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Team Genomics One-A
  Team work is an essential part of any workspace. It helps achieve goals faster and also in a more efficient way. Here we are a diverse group of Genomics enthusiasts working towards a common goal and simultaneously learning from one another!😄
  
 ![Your Health in the Hands of Genetics &amp; Genomics | NursingCenter](https://www.nursingcenter.com/getattachment/d8003813-38ac-4105-a4c7-bd3e4676e748/Your-Health-in-the-Hands-of-Genetics-and-Genomics.aspx)
@@ -30,6 +34,12 @@ https://usegalaxy.eu/
 
 ## Steps followed
 
- 
+ <p align="center">
+   <br>
+   <br>
+    <br>
+<img align="center" alt="gif" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+   <br>
+</p>
 
 ## Contributors
