@@ -42,7 +42,7 @@ Our Lab of Genomics-One-A :female-scientist::male-scientist:will investigate exo
 Get to know our awesome team members and their contributions. 👩‍💻👨‍💻
 
 | Team members	| @Slack username  | Contributions |
-| :------------- | :-------------:	| :------------- |
+| :------------- | :-------------	| :------------- |
 | Aditi Singh	| @AditiSingh12345  | Validation of Workflow and Retrieved Datasets and uploaded on Galaxy |
 | Amandeep Kaur (Team Lead) | @Amandeep  | Conceptualization of the workflow, performed variant annotation using SnpSift, Modified Graphical representation, Modified Github readme file  | 
 | Ananya Saji | @AnanyaSaji |  Validation of Workflow and Performed FastQC of Father’s dataset |
