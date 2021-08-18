@@ -18,8 +18,10 @@ Welcome to our Genomics Lab where we do everything with genes🧬. This is a tea
 	</p>
 
 ## Stage 2 Task 🧐🧐
-The task is to look for a bioinformatic tutorial  that correlates with our biostack ( which is genomics). Then to create a quick and simple design for our desired tutorial and advertise it on transfer market channel on Slack workspace.  Once we reproduce the task, we should go on and  create a comprehensive markdown of the step by step and send a GitHub link to the file. 
-How exciting!😍
+1. Reproduce a bioinformatics tutorial that correlates with our biostack (Genomics) 
+2. Advertise a quick and simple design of our desired tutorial on #transfer-market channel on Slack workspace 
+3. Create a comprehensive markdown of the step followed 
+Exciting!😍
 
 <br>
 
@@ -28,9 +30,7 @@ Have a look at the New state-of-the-art molecular diagnostic genetic test-"Exome
 
 There are around 180,000 exons in humans, with a total length of approximately 30 million base pairs (30 Mb). Thus, while accounting for only 1% of the human genome, the exome is thought to include up to 85% of all disease-causing mutations.
 
-Exome sequencing, as an alternative to whole-genome sequencing in the detection of genetic disease, is less expensive while yet covering significantly more potential disease-causing variant sites than genotyping arrays.
-
-This is especially important in the case of rare genetic conditions, since the causal variations may present in the human population at too low a frequency to be included on genotyping arrays.
+Exome sequencing, as an alternative to whole-genome sequencing in the detection of genetic disease, is less expensive while yet covering significantly more potential disease-causing variant sites than genotyping arrays. This is especially important in the case of rare genetic conditions, since the causal variations may present in the human population at too low a frequency to be included on genotyping arrays.
 
 Our Lab of Genomics-One-A will investigate :detective: exome sequencing data from a family triple:family_man_woman_boy: in which the boy child has osteopetrosis (rare genetic disorder with abnormally dense bones:bone: and prone to breakage) and both parents, who are consanguineous, are unaffected. Our lab’s goal is to figure out which genetic variant is causing the condition.
 
