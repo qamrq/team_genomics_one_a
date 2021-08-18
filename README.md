@@ -1,4 +1,4 @@
-# **HackBio Internship**  ![HackBIo](https://img.shields.io/badge/HackBio-red) 
+# **✨HackBio Internship✨**  ![HackBIo](https://img.shields.io/badge/HackBio-red) 
  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/qamrq/team_genomics_one_a.git)
 
  ![image](https://media-exp1.licdn.com/dms/image/C561BAQHKcVQGbcedOA/company-background_10000/0/1598491473588?e=2159024400&v=beta&t=rxECjvQ_YSc28Dn0n9YOtDoFFmvXjatRiqc__C2mpU0)
