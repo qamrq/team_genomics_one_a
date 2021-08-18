@@ -1,4 +1,4 @@
-<h1 align="center"> **✨HackBio Internship✨** </h1>
+<h1 align="center"> ✨HackBio Internship✨ </h1>
  
  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/qamrq/team_genomics_one_a.git)
 
