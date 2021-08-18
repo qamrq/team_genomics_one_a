@@ -6,7 +6,7 @@
  <br>
  <br>
  <br>
- <a href="https://ibb.co/XpY9VHy"><img src="https://github.com/qamrq/team_genomics_one_a/blob/main/team%20genomics%20one%20a.png" width ="1500px" alt="final" border="0"></a>
+ <img src="https://github.com/qamrq/team_genomics_one_a/blob/main/team%20genomics%20one%20a.png" width ="1500px" alt="final" border="0"></a>
  
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px"> Team Genomics One-A
  Team work is an essential part of any workspace. It helps achieve goals faster and also in a more efficient way. Here we are a diverse group of Genomics enthusiasts working as a team towards a common goal and simultaneously learning from one another!😄
