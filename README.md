@@ -1,4 +1,5 @@
-<h1 align="center"> **✨HackBio Internship✨**  ![HackBIo](https://img.shields.io/badge/HackBio-red) </h1>
+<h1 align="center"> **✨HackBio Internship✨** </h1>
+ 
  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/qamrq/team_genomics_one_a.git)
 
  ![image](https://media-exp1.licdn.com/dms/image/C561BAQHKcVQGbcedOA/company-background_10000/0/1598491473588?e=2159024400&v=beta&t=rxECjvQ_YSc28Dn0n9YOtDoFFmvXjatRiqc__C2mpU0)
@@ -11,7 +12,7 @@ Welcome to our Genomics Lab where we do everything with genes🧬. This is a tea
 
 <p align="center">
  <br>
- <img align="center" src="https://www.nursingcenter.com/getattachment/d8003813-38ac-4105-a4c7-bd3e4676e748/Your-Health-in-the-Hands-of-Genetics-and-Genomics.aspx">
+ <img align="center" src="https://www.nursingcenter.com/getattachment/d8003813-38ac-4105-a4c7-bd3e4676e748/Your-Health-in-the-Hands-of-Genetics-and-Genomics.aspx"  width="400px">
 <br>
 	<br>
 	</p>
@@ -31,7 +32,7 @@ Exome sequencing, as an alternative to whole-genome sequencing in the detection 
 
 This is especially important in the case of rare genetic conditions, since the causal variations may present in the human population at too low a frequency to be included on genotyping arrays.
 
-Our Lab of Genomics-One-A :scientist: will investigate exome sequencing data from a family triple:family_man_woman_boy: in which the boy child has osteopetrosis (rare genetic disorder with abnormally dense bones:bone: and prone to breakage) and both parents, who are consanguineous, are unaffected. Our lab’s goal is to figure out which genetic variant is causing the condition.
+Our Lab of Genomics-One-A will investigate :detective: exome sequencing data from a family triple:family_man_woman_boy: in which the boy child has osteopetrosis (rare genetic disorder with abnormally dense bones:bone: and prone to breakage) and both parents, who are consanguineous, are unaffected. Our lab’s goal is to figure out which genetic variant is causing the condition.
 
 
 
@@ -46,7 +47,7 @@ Our Lab of Genomics-One-A :scientist: will investigate exome sequencing data fro
 
 
 
-## References
+## References :scroll:
 Wolfgang Maier, Bérénice Batut, Torsten Houwaart, Anika Erxleben, Björn Grüning, 2021 Exome sequencing data analysis for diagnosing a genetic disease (Galaxy Training Materials). https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/exome-seq/tutorial.html 
 
 Batut et al., 2018 Community-Driven Data Analysis Training for Biology Cell Systems https://doi.org/10.1016%2Fj.cels.2018.05.012
