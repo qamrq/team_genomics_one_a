@@ -36,7 +36,13 @@ Of note, a recent study focusing on the area of clinical pediatric neurology ind
 https://usegalaxy.eu/
 Galaxy is a scientific workflow, data integration, and data and analysis persistence and publishing platform that aims to make computational biology accessible to research scientists that do not have computer programming experience.
 
-
+ <p align="center">
+   <br>
+   <br>
+    <br>
+<img align="center" alt="gif" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+   <br>
+</p>
 
 ## Steps followed
 
@@ -68,12 +74,6 @@ Get to know our awesome team members and their contributions. 👩‍💻👨‍
 | Suresh Kumar Mendem (@Suresh)  |  |
 | Tasneem (@Tasneem) |  |
 
- <p align="center">
-   <br>
-   <br>
-    <br>
-<img align="center" alt="gif" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
-   <br>
-</p>
+
 
 		
