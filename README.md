@@ -8,21 +8,20 @@
  <br>
  <a href="https://ibb.co/XpY9VHy"><img src="https://github.com/qamrq/team_genomics_one_a/blob/main/team%20genomics%20one%20a.png" width ="1500px" alt="final" border="0"></a>
  
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Team Genomics One-A
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px"> Team Genomics One-A
  Team work is an essential part of any workspace. It helps achieve goals faster and also in a more efficient way. Here we are a diverse group of Genomics enthusiasts working as a team towards a common goal and simultaneously learning from one another!😄
  
  <br>
  
 ![Your Health in the Hands of Genetics &amp; Genomics | NursingCenter](https://www.nursingcenter.com/getattachment/d8003813-38ac-4105-a4c7-bd3e4676e748/Your-Health-in-the-Hands-of-Genetics-and-Genomics.aspx) <img align="left" alt="gif" src="https://www.incredibleart.org/links/ascii/asciiman.gif" width="165px">
 
-
-
 <br>
+
 ## Our Task  
 <img align="right" alt="gif" src="http://www.qqpr.com/ascii/img/ascii-1008.gif" width="150px"> The task is to look for a bioinformatic tutorial  that correlates with our biostack ( which is genomics). Then to create a quick and simple design for our desired tutorial and advertise it on transfer market channel on Slack workspace.  Once we reproduce the task, we should go on and  create a comprehensive markdown of the step by step and send a GitHub link to the file. 
 How exciting!😍
 
-
+<br>
 
 ## Tutorial title - Exome sequencing data analysis for diagnosing a genetic diseases.
 Exome sequencing is a method that enables the selective sequencing of the exonic regions of a genome - that is the transcribed parts of the genome present in mature mRNA, including protein-coding sequences, but also untranslated regions (UTRs).
