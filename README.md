@@ -6,7 +6,7 @@
  <br>
 
  
-## <img align="center" alt="gif" "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px">  Genomics One-A Lab
+## <img "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px">  Genomics One-A Lab
  Team work is an essential part of any workspace. It helps achieve goals faster and also in a more efficient way. Here we are a diverse group of Genomics enthusiasts working as a team towards a common goal and simultaneously learning from one another!😄
  
  <br>
