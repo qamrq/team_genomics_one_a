@@ -17,7 +17,7 @@
 
 <br>
 
-## Our Task  
+## Our Task 🧐🧐
 <img align="right" alt="gif" src="http://www.qqpr.com/ascii/img/ascii-1008.gif" width="150px"> The task is to look for a bioinformatic tutorial  that correlates with our biostack ( which is genomics). Then to create a quick and simple design for our desired tutorial and advertise it on transfer market channel on Slack workspace.  Once we reproduce the task, we should go on and  create a comprehensive markdown of the step by step and send a GitHub link to the file. 
 How exciting!😍
 
@@ -45,16 +45,16 @@ Galaxy is a scientific workflow, data integration, and data and analysis persist
    <br>
 </p>
 
-## Steps followed
+## ⚙ Steps followed ⚙
 
 <p align="center">
    <br>
-<img align="center" alt="gif" src="https://github.com/qamrq/team_genomics_one_a/blob/main/Financial%20Perspective.gif" width="700">
+<img align="center" alt="gif" src="https://github.com/qamrq/team_genomics_one_a/blob/main/Financial%20Perspective.gif" width="650">
  <br>
 <br>
 </p>
 
-## Contributors
+## Contributors 🦾🦾
 Get to know our awesome team members and their contributions. 👩‍💻👨‍💻
 
 <img align="right" alt="gif" src="http://www.qqpr.com/ascii/img/ascii-1087.gif" width="300px">
