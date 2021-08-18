@@ -52,7 +52,7 @@ Galaxy is a scientific workflow, data integration, and data and analysis persist
 ## Contributors
 Get to know our awesome team members and their contributions. 👩‍💻👨‍💻
 
-<img align="right" alt="gif" src="http://www.qqpr.com/ascii/img/ascii-1087.gif" width="400px">
+<img align="right" alt="gif" src="http://www.qqpr.com/ascii/img/ascii-1087.gif" width="250px">
 
  | Team members (@Slack username)  | Contributions |
 | ------------- | ------------- |
