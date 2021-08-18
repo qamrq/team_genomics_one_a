@@ -47,6 +47,7 @@ Galaxy is a scientific workflow, data integration, and data and analysis persist
 
 ## Steps followed
 
+<img align="center" alt="gif" src="https://github.com/qamrq/team_genomics_one_a/blob/main/Financial%20Perspective.gif">
 
 
 ## Contributors
