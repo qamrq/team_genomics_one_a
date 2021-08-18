@@ -6,7 +6,7 @@
  <br>
 
  
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px">  Genomics One-A Lab
+## <img align="center" alt="gif" "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px">  Genomics One-A Lab
  Team work is an essential part of any workspace. It helps achieve goals faster and also in a more efficient way. Here we are a diverse group of Genomics enthusiasts working as a team towards a common goal and simultaneously learning from one another!😄
  
  <br>
@@ -15,7 +15,7 @@
 <br>
 
 ## Stage 2 Task 🧐🧐
-<img align="right" alt="gif" src="http://www.qqpr.com/ascii/img/ascii-1008.gif" width="150px"> The task is to look for a bioinformatic tutorial  that correlates with our biostack ( which is genomics). Then to create a quick and simple design for our desired tutorial and advertise it on transfer market channel on Slack workspace.  Once we reproduce the task, we should go on and  create a comprehensive markdown of the step by step and send a GitHub link to the file. 
+The task is to look for a bioinformatic tutorial  that correlates with our biostack ( which is genomics). Then to create a quick and simple design for our desired tutorial and advertise it on transfer market channel on Slack workspace.  Once we reproduce the task, we should go on and  create a comprehensive markdown of the step by step and send a GitHub link to the file. 
 How exciting!😍
 
 <br>
@@ -65,7 +65,7 @@ Get to know our awesome team members and their contributions. 👩‍💻👨‍
 | Suresh Kumar Mendem | @Suresh  |  |
 | Tasneem | @Tasneem |  |
 
-## Dependency <img alt="gif" src="http://www.qqpr.com/ascii/img/ascii-1022.gif" width="100px">
+## Dependency 
 https://usegalaxy.eu/
 Galaxy is a scientific workflow, data integration, and data and analysis persistence and publishing platform that aims to make computational biology accessible to research scientists that do not have computer programming experience.
 
