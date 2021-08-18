@@ -4,17 +4,14 @@
  ![image](https://media-exp1.licdn.com/dms/image/C561BAQHKcVQGbcedOA/company-background_10000/0/1598491473588?e=2159024400&v=beta&t=rxECjvQ_YSc28Dn0n9YOtDoFFmvXjatRiqc__C2mpU0)
  <br>
  <br>
- <br>
- <br>
- <img src="https://github.com/qamrq/team_genomics_one_a/blob/main/team%20genomics%20one%20a.png" width ="1500px" alt="final" border="0"></a>
+
  
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px">  Genomics One-A Lab
  Team work is an essential part of any workspace. It helps achieve goals faster and also in a more efficient way. Here we are a diverse group of Genomics enthusiasts working as a team towards a common goal and simultaneously learning from one another!😄
  
  <br>
  
-![Your Health in the Hands of Genetics &amp; Genomics | NursingCenter](https://www.nursingcenter.com/getattachment/d8003813-38ac-4105-a4c7-bd3e4676e748/Your-Health-in-the-Hands-of-Genetics-and-Genomics.aspx) <img align="left" alt="gif" src="https://www.incredibleart.org/links/ascii/asciiman.gif" width="165px">
-
+![Your Health in the Hands of Genetics &amp; Genomics | NursingCenter](https://www.nursingcenter.com/getattachment/d8003813-38ac-4105-a4c7-bd3e4676e748/Your-Health-in-the-Hands-of-Genetics-and-Genomics.aspx)
 <br>
 
 ## Stage 2 Task 🧐🧐
