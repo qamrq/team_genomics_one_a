@@ -43,26 +43,27 @@ Get to know our awesome team members and their contributions. 👩‍💻👨‍
 
 <img align="right" alt="gif" src="http://www.qqpr.com/ascii/img/ascii-1087.gif" width="300px">
 
- | Team members (@Slack username)  | Contributions |
-| ------------- | ------------- |
-| Aditi Singh (@AditiSingh12345)  |  |
-| Amandeep Kaur (Team Lead)(@Amandeep)  |   | 
-| Ananya Saji (@AnanyaSaji) |   |
-| Anjali Negi (@genesis)  |   |
-| Darshana Joshi (@DarshanaJoshi)  |  |
-| Harshitha BC (@Harshitha)  |  |
-| Jyothi (@Jyothi)  |   |
-| Lakshmi S Prasad (@lakshmip)  |  | 
-| Lokesh V (@Lokesh) |   |
-|Nanthana Ravichandran (@Nanthanaravi)   |  |
-| Nasrin Parvin (@Nasrin) |   |
-| Neha Rose Pious (@Neharose) |   |
-| Qamar Raza Qadri (@Qamar) |   |
-| Rajashri Mondal (@Rajarshi_Mondal) |   |
-| Rohan Kumar (@Rohanraj11) |   |
-| Sooraj S (@Sooraj)  |   |
-| Suresh Kumar Mendem (@Suresh)  |  |
-| Tasneem (@Tasneem) |  |
+
+| Team members	| (@Slack username)  | Contributions |
+| :------------- | :-------------:	| :------------- |
+| Aditi Singh	| (@AditiSingh12345)  |  |
+| Amandeep Kaur |(Team Lead)(@Amandeep)  |   | 
+| Ananya Saji |(@AnanyaSaji) |   |
+| Anjali Negi |(@genesis)  |   |
+| Darshana Joshi |(@DarshanaJoshi)  |  |
+| Harshitha BC |(@Harshitha)  |  |
+| Jyothi| (@Jyothi)  |   |
+| Lakshmi S Prasad |(@lakshmip)  |  | 
+| Lokesh V |(@Lokesh) |   |
+|Nanthana Ravichandran| (@Nanthanaravi)   |  |
+| Nasrin Parvin |(@Nasrin) |   |
+| Neha Rose Pious |(@Neharose) |   |
+| Qamar Raza Qadri| (@Qamar) |   |
+| Rajashri Mondal| (@Rajarshi_Mondal) |   |
+| Rohan Kumar |(@Rohanraj11) |   |
+| Sooraj S |(@Sooraj)  |   |
+| Suresh Kumar Mendem |(@Suresh)  |  |
+| Tasneem |(@Tasneem) |  |
 
 ## Dependency <img alt="gif" src="http://www.qqpr.com/ascii/img/ascii-1022.gif" width="100px">
 https://usegalaxy.eu/
