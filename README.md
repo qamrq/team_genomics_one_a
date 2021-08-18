@@ -40,13 +40,7 @@ Galaxy is a scientific workflow, data integration, and data and analysis persist
 
 ## Steps followed
 
- <p align="center">
-   <br>
-   <br>
-    <br>
-<img align="center" alt="gif" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
-   <br>
-</p>
+
 
 ## Contributors
 Get to know our awesome team members and their contributions. 👩‍💻👨‍💻
@@ -73,5 +67,13 @@ Get to know our awesome team members and their contributions. 👩‍💻👨‍
 | Sooraj S (@Sooraj)  |   |
 | Suresh Kumar Mendem (@Suresh)  |  |
 | Tasneem (@Tasneem) |  |
+
+ <p align="center">
+   <br>
+   <br>
+    <br>
+<img align="center" alt="gif" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+   <br>
+</p>
 
 		
