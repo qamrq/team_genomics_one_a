@@ -32,7 +32,7 @@ Exome sequencing, thus, offers an affordable alternative to whole-genome sequenc
 Of note, a recent study focusing on the area of clinical pediatric neurology indicates that the costs of exome sequencing may actually not be higher even today than the costs of conventional genetic testing ([Vissers et al., 2017](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5589982/)).
 
 
-## Dependency
+## Dependency <img alt="gif" src="http://www.qqpr.com/ascii/img/ascii-1022.gif" width="100px">
 https://usegalaxy.eu/
 Galaxy is a scientific workflow, data integration, and data and analysis persistence and publishing platform that aims to make computational biology accessible to research scientists that do not have computer programming experience.
 
@@ -51,6 +51,8 @@ Galaxy is a scientific workflow, data integration, and data and analysis persist
 ## Contributors
 Get to know our awesome team members and their contributions. 👩‍💻👨‍💻
 
+<img align="right" alt="gif" src="http://www.qqpr.com/ascii/img/ascii-1087.gif" width="400px">
+
  | Team members (@Slack username)  | Contributions |
 | ------------- | ------------- |
 | Aditi Singh (@AditiSingh12345)  |  |
@@ -60,7 +62,7 @@ Get to know our awesome team members and their contributions. 👩‍💻👨‍
 | Darshana Joshi (@DarshanaJoshi)  |  |
 | Harshitha BC (@Harshitha)  |  |
 | Jyothi (@Jyothi)  |   |
-| Lakshmi S Prasad (@lakshmip)  |  |
+| Lakshmi S Prasad (@lakshmip)  |  | 
 | Lokesh V (@Lokesh) |   |
 |Nanthana Ravichandran (@Nanthanaravi)   |  |
 | Nasrin Parvin (@Nasrin) |   |
