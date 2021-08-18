@@ -51,25 +51,25 @@ Galaxy is a scientific workflow, data integration, and data and analysis persist
 ## Contributors
 Get to know our awesome team members and their contributions. 👩‍💻👨‍💻
 
- | Team members(@Slack username)  | Contributions |
+ | Team members (@Slack username)  | Contributions |
 | ------------- | ------------- |
-| Aditi Singh(@AditiSingh12345)  |  |
+| Aditi Singh (@AditiSingh12345)  |  |
 | Amandeep Kaur (Team Lead)(@Amandeep)  |   | 
-| Ananya Saji(@AnanyaSaji) |   |
-| Anjali Negi(@genesis)  |   |
-| Darshana Joshi(@DarshanaJoshi)  |  |
-| Harshitha BC(@Harshitha)  |  |
-| Jyothi(@Jyothi)  |   |
-| Lakshmi S Prasad(@lakshmip)  |  |
-| Lokesh V(@Lokesh) |   |
-|Nanthana Ravichandran(@Nanthanaravi)   |  |
-| Nasrin Parvin(@Nasrin) |   |
-| Neha Rose Pious(@Neharose) |   |
-| Qamar Raza Qadri(@Qamar) |   |
-| Rajashri Mondal(@Rajarshi_Mondal) |   |
-| Rohan Kumar(@Rohanraj11) |   |
-| Sooraj S(@Sooraj)  |   |
-| Suresh Kumar Mendem(@Suresh)  |  |
-| Tasneem(@Tasneem) |  |
+| Ananya Saji (@AnanyaSaji) |   |
+| Anjali Negi (@genesis)  |   |
+| Darshana Joshi (@DarshanaJoshi)  |  |
+| Harshitha BC (@Harshitha)  |  |
+| Jyothi (@Jyothi)  |   |
+| Lakshmi S Prasad (@lakshmip)  |  |
+| Lokesh V (@Lokesh) |   |
+|Nanthana Ravichandran (@Nanthanaravi)   |  |
+| Nasrin Parvin (@Nasrin) |   |
+| Neha Rose Pious (@Neharose) |   |
+| Qamar Raza Qadri (@Qamar) |   |
+| Rajashri Mondal (@Rajarshi_Mondal) |   |
+| Rohan Kumar (@Rohanraj11) |   |
+| Sooraj S (@Sooraj)  |   |
+| Suresh Kumar Mendem (@Suresh)  |  |
+| Tasneem (@Tasneem) |  |
 
 		
