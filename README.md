@@ -64,7 +64,7 @@ Get to know our awesome team members and their contributions 👩‍💻👨‍�
 | Amandeep Kaur (Team Lead) | @Amandeep  | Conceptualization of the workflow, performed variant annotation using SnpSift, Modified Graphical representation, Modified Github readme file  | 
 | Ananya Saji | @AnanyaSaji |  Validation of Workflow and Performed FastQC of Father’s dataset |
 | Anjali Negi | @genesis  | Validation of Workflow and Performed FastQC of Mother’s dataset, Worked on Graphical representation  |
-| Darshana Joshi | @DarshanaJoshi  | alidation of Workflow and Performed variant annotation using GEMINI load and candidate variant detection |
+| Darshana Joshi | @DarshanaJoshi  | Validation of Workflow and Performed variant annotation using GEMINI load and candidate variant detection |
 | Harshitha BC | @Harshitha  | Validation of Workflow and Performed FastQC of Proband’s dataset, Worked on GitHub readme file |
 | Jyothi| @Jyothi  | Validation of Workflow and Performed MultiQC of FastQC files  |
 | Lakshmi S Prasad | @lakshmip  | Validation of Workflow and Performed mapping of Father’s datasets  | 
