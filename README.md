@@ -73,7 +73,7 @@ Get to know our awesome team members and their contributions 👩‍💻👨‍�
 | Nasrin Parvin | @Nasrin |  Validation of Workflow and Filter mapped reads of Father’s dataset |
 | Neha Rose Pious | @Neharose |  Validation of Workflow and Filter mapped reads of Mother’s dataset |
 | Qamar Raza Qadri| @Qamar | Validation of Workflow and Filter mapped reads of Proband’s dataset, created Github Repo  |
-| Rajashri Mondal| @Rajarshi_Mondal | Validation of Workflow and Remove duplicates from Father’s mapped reads, Worked on GitHub readme file  |
+| Rajarshi Mondal| @Rajarshi_Mondal | Validation of Workflow and Remove duplicates from Father’s mapped reads, Worked on GitHub readme file  |
 | Rohan Kumar | @Rohanraj11 | Validation of Workflow and Remove duplicates from Mother’s and Proband’s mapped reads  |
 | Sooraj S | @Sooraj  | Validation of Workflow and Performed Variant calling using FreeBayes call, Worked on Graphical representation  |
 | Suresh Kumar Mendem | @Suresh  | Validation of Workflow and Performed Postprocessing FreeBayes call using bcftools |
