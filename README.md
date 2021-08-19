@@ -62,22 +62,22 @@ Get to know our awesome team members and their contributions 👩‍💻👨‍�
 | Team members	| @Slack username  | Contributions |
 | :------------- | :-------------:	| :------------- |
 | Aditi Singh	| @AditiSingh12345  | Validation of Workflow and Retrieved Datasets and uploaded on Galaxy |
-| Amandeep Kaur (Team Lead) | @Amandeep  | Conceptualization of the workflow, performed variant annotation using SnpSift, Modified Graphical representation, Modified Github readme file  | 
+| [Amandeep Kaur (Team Lead)](https://github.com/662amandeep) | @Amandeep  | Conceptualization of the workflow, performed variant annotation using SnpSift, Modified Graphical representation, Modified Github readme file  | 
 | Ananya Saji | @AnanyaSaji |  Validation of Workflow and Performed FastQC of Father’s dataset |
 | Anjali Negi | @genesis  | Validation of Workflow and Performed FastQC of Mother’s dataset, Worked on Graphical representation  |
 | Darshana Joshi | @DarshanaJoshi  | Validation of Workflow and Performed variant annotation using GEMINI load and candidate variant detection |
-| Harshitha BC | @Harshitha  | Validation of Workflow and Performed FastQC of Proband’s dataset, Worked on GitHub readme file |
+| [Harshitha BC](https://github.com/HarshithaBC) | @Harshitha  | Validation of Workflow and Performed FastQC of Proband’s dataset, Worked on GitHub readme file |
 | Jyothi| @Jyothi  | Validation of Workflow and Performed MultiQC of FastQC files  |
 | Lakshmi S Prasad | @lakshmip  | Validation of Workflow and Performed mapping of Father’s datasets  | 
 | Lokesh V | @Lokesh | Validation of Workflow and Performed mapping of Mother’s datasets  |
-|Nanthana Ravichandran| @Nanthanaravi   | Validation of Workflow and Performed mapping of Proband’s datasets |
+|[Nanthana Ravichandran](https://github.com/nanthanaravichandran)| @Nanthanaravi   | Validation of Workflow and Performed mapping of Proband’s datasets |
 | Nasrin Parvin | @Nasrin |  Validation of Workflow and Filter mapped reads of Father’s dataset |
 | Neha Rose Pious | @Neharose |  Validation of Workflow and Filter mapped reads of Mother’s dataset |
-| Qamar Raza Qadri| @Qamar | Validation of Workflow and Filter mapped reads of Proband’s dataset, created Github Repo  |
-| Rajarshi Mondal| @Rajarshi_Mondal | Validation of Workflow and Remove duplicates from Father’s mapped reads, Worked on GitHub readme file  |
+| [Qamar Raza Qadri](https://github.com/qamrq)| @Qamar | Validation of Workflow and Filter mapped reads of Proband’s dataset, created Github Repo  |
+| [Rajarshi Mondal](https://github.com/Rajarshi0)| @Rajarshi_Mondal | Validation of Workflow and Remove duplicates from Father’s mapped reads, Worked on GitHub readme file  |
 | Rohan Kumar | @Rohanraj11 | Validation of Workflow and Remove duplicates from Mother’s and Proband’s mapped reads  |
 | Sooraj S | @Sooraj  | Validation of Workflow and Performed Variant calling using FreeBayes call, Worked on Graphical representation  |
-| Suresh Kumar Mendem | @Suresh  | Validation of Workflow and Performed Postprocessing FreeBayes call using bcftools |
+| [Suresh Kumar Mendem](https://github.com/suresh2014) | @Suresh  | Validation of Workflow and Performed Postprocessing FreeBayes call using bcftools |
 | Tasneem | @Tasneem | Validation of Workflow and Performed variant annotation using SnpEff eff, Worked on Graphical representation |
 
 
