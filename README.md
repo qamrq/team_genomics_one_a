@@ -16,6 +16,7 @@ Welcome to our Genomics Lab where we do everything with genes🧬. This is a tea
 <br>
 	<br>
 	</p>
+	
 
 ## Stage 2 Task 🧐🧐
 - Reproduce a bioinformatics tutorial that correlates with our biostack (Genomics) 
@@ -34,7 +35,7 @@ Exome sequencing, as an alternative to whole-genome sequencing in the detection 
 
 Our Lab of Genomics-One-A will investigate :detective: exome sequencing data from a family triple:family_man_woman_boy: in which the boy child has osteopetrosis (rare genetic disorder with abnormally dense bones:bone: and prone to breakage) and both parents, who are consanguineous, are unaffected. Our lab’s goal is to figure out which genetic variant is causing the condition.
 
-
+<br>
 
 ## Workflow ✍️
 
