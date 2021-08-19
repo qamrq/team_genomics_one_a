@@ -7,7 +7,7 @@
  <br>
 
  
-## Genomics One-A Lab 👩‍🔬 👨‍🔬
+## <img src= "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Genomics One-A Lab 👩‍🔬 👨‍🔬 
 Welcome to our Genomics Lab where we do everything with genes🧬. This is a team of diverse, dynamic and Genomic enthusiasts working together towards a common goal to work for the society by practicing Science :microscope:
 
 <p align="center">
@@ -18,9 +18,9 @@ Welcome to our Genomics Lab where we do everything with genes🧬. This is a tea
 	</p>
 
 ## Stage 2 Task 🧐🧐
-1. Reproduce a bioinformatics tutorial that correlates with our biostack (Genomics) 
-2. Advertise a quick and simple design of our desired tutorial on #transfer-market channel on Slack workspace 
-3. Create a comprehensive markdown of the step followed 
+- Reproduce a bioinformatics tutorial that correlates with our biostack (Genomics) 
+- Advertise a quick and simple design of our desired tutorial on #transfer-market channel on Slack workspace 
+- Create a comprehensive markdown of the step followed 
 Exciting!😍
 
 <br>
@@ -58,7 +58,7 @@ Batut et al., 2018 Community-Driven Data Analysis Training for Biology Cell Syst
 Get to know our awesome team members and their contributions 👩‍💻👨‍💻
 
 | Team members	| @Slack username  | Contributions |
-| :------------- | :-------------	| :------------- |
+| :------------- | :-------------:	| :------------- |
 | Aditi Singh	| @AditiSingh12345  | Validation of Workflow and Retrieved Datasets and uploaded on Galaxy |
 | Amandeep Kaur (Team Lead) | @Amandeep  | Conceptualization of the workflow, performed variant annotation using SnpSift, Modified Graphical representation, Modified Github readme file  | 
 | Ananya Saji | @AnanyaSaji |  Validation of Workflow and Performed FastQC of Father’s dataset |
@@ -80,7 +80,7 @@ Get to know our awesome team members and their contributions 👩‍💻👨‍�
 
 
 
-## Thank you for your Time and Patience :relaxed:<img src= "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px">
+## Thank you for your Time and Patience :relaxed: 
  <p align="center">
    <br>
     <br>
