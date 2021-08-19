@@ -42,7 +42,7 @@ Our Lab of Genomics-One-A will investigate :detective: exome sequencing data fro
 
 <p align="center">
    <br>
-<img align="center" alt="gif" src="https://github.com/qamrq/team_genomics_one_a/blob/main/Financial%20Perspective.gif" width="650">
+<img align="center" alt="gif" src="https://github.com/qamrq/team_genomics_one_a/blob/main/workflow.gif" width="650">
  <br>
 <br>
 </p>
