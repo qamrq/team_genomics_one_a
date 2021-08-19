@@ -22,6 +22,7 @@ Welcome to our Genomics Lab where we do everything with genes🧬. This is a tea
 - Reproduce a bioinformatics tutorial that correlates with our biostack (Genomics) 
 - Advertise a quick and simple design of our desired tutorial on #transfer-market channel on Slack workspace 
 - Create a comprehensive markdown of the step followed 
+
 Exciting!😍
 
 <br>
